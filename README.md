@@ -12,8 +12,7 @@ Nawet jeśli podpiszemy umowę z zapisami abuzywnymi, to nie musimy się do nich
 
 UOKiK posiada rejestr wszystkich klauzul abuzywnych na swojej stronie 
 [bieżącej](https://www.rejestr.uokik.gov.pl/) i
-[archiwalnej](https://www.uokik.gov.pl/rejestr_klauzul_niedozwolonych2.php),
-jednak dostęp do nich jest niewygodny.
+[archiwalnej](https://www.uokik.gov.pl/rejestr_klauzul_niedozwolonych2.php).
 
 Celem strony https://abuzywne.herokuapp.com jest stworzenie łatwego dostępu do
 klauzul abuzywnych, ich automatycznego wyszukiwania w internecie i ich rozpoznawania
