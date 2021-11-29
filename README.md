@@ -2,13 +2,14 @@
 
 > [Ignorantia iuris nocet](https://pl.wikipedia.org/wiki/Ignorantia_iuris_nocet) (łac. nieznajomość prawa szkodzi)
 
-W życiu społecznym i gospodarczym mamy do czynienia z różnymi regulaminami i umowami.
+W życiu społecznym i gospodarczym mamy do czynienia z różnymi regulaminami i umowami,
+które nie są uzgadniane indywidualnie.
 W nich są określone nasze prawa i obowiązki jako konsumentów. Niestety, czasem
 przedsiębiorcy wykorzystują swoją pozycję i umieszczają klauzule działające na szkodę konsumenta.
 Jeśli taki zapis został przez sąd uznany za niedozwolony (abuzywny), zostaje od wpisany
 do rejestru UOKiK i nie może być dalej stosowany.
 
-Nawet jeśli podpiszemy umowę z zapisami abuzywnymi, to nie musimy się do nich stosować.
+Nawet jeśli podpiszemy wzorzec umowy z zapisami abuzywnymi, to nie musimy się do nich stosować.
 
 UOKiK posiada rejestr wszystkich klauzul abuzywnych na swojej stronie 
 [bieżącej](https://www.rejestr.uokik.gov.pl/) i
