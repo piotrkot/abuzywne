@@ -13,8 +13,9 @@ Nawet jeśli podpiszemy wzorzec umowy z zapisami abuzywnymi, to nie musimy się 
 
 UOKiK posiada rejestr wszystkich klauzul abuzywnych na swojej stronie 
 [bieżącej](https://www.rejestr.uokik.gov.pl/) i
-[archiwalnej](https://www.uokik.gov.pl/rejestr_klauzul_niedozwolonych2.php).
+[archiwalnej](https://www.uokik.gov.pl/rejestr_klauzul_niedozwolonych2.php),
+choć znalezienie szukanej klauzuli po słowie kluczowym jest czasem utrudnione.
 
 Celem strony https://abuzywne.herokuapp.com jest stworzenie łatwego dostępu do
-klauzul abuzywnych, ich automatycznego wyszukiwania w internecie i ich rozpoznawania
-we wzorcach umów przy użyciu sztucznej inteligencji.
+klauzul abuzywnych, ich automatycznego wyszukiwania w internecie i ich inteligentnego
+rozpoznawania we wzorcach umów.
